@@ -33,10 +33,10 @@
 		},
 		"StandardLoginFormWebclient": {
 			"UseDropdownLanguagesView": true,
-			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/afterlogic.org\/aurora-files\" target=\"_blank\">Afterlogic Aurora Files</a>"
+			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/cybermint.network\/contact-us\" target=\"_blank\">Cybermint Networ</a>"
 		},
 		"StandardRegisterFormWebclient": {
-			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/afterlogic.org\/aurora-files\" target=\"_blank\">Afterlogic Aurora Files</a>"
+			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/cybermint.network\/contact-us\" target=\"_blank\">Cybermint Networ</a>"
 		},
 		"OverrideUserSettings": {
 			"Disabled": true
